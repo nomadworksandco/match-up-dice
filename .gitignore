@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.output/
+.vercel/
+.nitro/
+.env
+.env.*
+.DS_Store
+*.local
+.project_id
+.github_repo
